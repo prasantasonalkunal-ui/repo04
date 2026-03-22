@@ -1,1 +1,2 @@
-Hi This is file1 which I am going to update now.
+Hi This is file1 which I am going to update now
+This file1 is updated by branch1.
