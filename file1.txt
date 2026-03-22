@@ -1,2 +1,1 @@
-Hi This is file1 which I am going to update now.
-Hi this is file1 updated by main.
+This file1 is updated by dev team.
